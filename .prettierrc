@@ -1,0 +1,14 @@
+{
+#换行的长度
+"printWidth": 120,
+#指定缩进的空格数
+"tabWidth": 2,
+#用单引号括起来
+"singleQuote": false,
+# 设置尾随逗号
+"trailingComma": none,
+# 在语句末尾设置分号
+"semi": true,
+# 为Vue的脚本和样式标签指定缩进
+"vueIndentScriptAndStyle": true
+}
